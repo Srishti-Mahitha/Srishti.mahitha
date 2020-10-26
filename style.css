@@ -1,0 +1,30 @@
+body{
+  text-align:center;
+  padding-top:50px;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+h1{
+  font-variant:small-caps;
+}
+#para{
+  padding:50px;
+  background:linear-gradient(#a6c8ff 0%,#ffa6f0 100%);
+}
+img{
+  height:200px;
+  width:200px;
+  border-radius:60%;
+}
+.menu{
+font-family: cursive;
+    list-style:none;
+    font-size:20.55px;
+    float:right;
+    top:20px;
+    right:20px;
+   cursor:grab;
+    color:darkorchid;
+}
+html{
+   background-color:aquamarine;
+}
